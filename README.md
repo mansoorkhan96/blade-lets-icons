@@ -3,11 +3,11 @@
 <a href="https://github.com/mansoorkhan96/blade-lets-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/mansoorkhan96/blade-lets-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://packagist.org/packages/mansoorkhan/blade-lets-icons">
-    <img src="https://img.shields.io/packagist/v/mansoorkhan96/blade-lets-icons" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/mansoor/blade-lets-icons">
+    <img src="https://img.shields.io/packagist/v/mansoor/blade-lets-icons" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/mansoorkhan/blade-lets-icons">
-    <img src="https://img.shields.io/packagist/dt/mansoorkhan96/blade-lets-icons" alt="Total Downloads">
+<a href="https://packagist.org/packages/mansoor/blade-lets-icons">
+    <img src="https://img.shields.io/packagist/dt/mansoor/blade-lets-icons" alt="Total Downloads">
 </a>
 
 A package to easily make use of [Lets Icons](https://www.figma.com/community/file/886554014393250663) in your Laravel Blade views.
