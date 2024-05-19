@@ -12,7 +12,7 @@
 
 A package to easily make use of [Lets Icons](https://www.figma.com/community/file/886554014393250663) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [icones.js.org/collection/lets-icons](https://icones.js.org/collection/lets-icons). Lets Icons are originally developed by [Leonid Tsvetkov](https://twitter.com/steveschoger) and [Adam Wathan](https://twitter.com/adamwathan).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [icones.js.org/collection/lets-icons](https://icones.js.org/collection/lets-icons). Lets Icons are originally developed by [Leonid Tsvetkov](https://twitter.com/steveschoger).
 
 ## Requirements
 
