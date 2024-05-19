@@ -1,0 +1,53 @@
+{
+    "name": "mansoor/blade-lets-icons",
+    "description": "A package to easily make use of Lets Icons in your Laravel Blade views.",
+    "keywords": [
+        "Blade",
+        "Lets Icons",
+        "Laravel"
+    ],
+    "homepage": "https://github.com/mansoor96/blade-lets-icons",
+    "license": "MIT",
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/mansoorkhan96"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Mansoor Ahmed"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "blade-ui-kit/blade-icons": "^1.6",
+        "illuminate/support": "^9.0|^10.0|^11.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.0|^8.0|^9.0",
+        "phpunit/phpunit": "^9.0|^10.5|^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mansoor\\LetsIcons\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mansoor\\LetsIcons\\BladeLetsIconsServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

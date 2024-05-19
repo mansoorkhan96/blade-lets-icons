@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@iconify-json/lets-icons": "^1.1.2",
+    "@iconify/utils": "^2.1.23",
+    "heroicons": "^2.1.3"
+  }
+}
