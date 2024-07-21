@@ -1,4 +1,4 @@
-# Blade Lets
+# Blade Lets Icons
 
 <a href="https://github.com/mansoorkhan96/blade-lets-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/mansoorkhan96/blade-lets-icons/workflows/Tests/badge.svg" alt="Tests">
